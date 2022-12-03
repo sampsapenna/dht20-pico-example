@@ -1,0 +1,6 @@
+[submodule "pico-sdk"]
+	path = pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk
+[submodule "dht20-pico"]
+	path = dht20-pico
+	url = git@github.com:sampsapenna/dht20-pico.git
